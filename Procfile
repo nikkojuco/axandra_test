@@ -1,0 +1,1 @@
+web: gunicorn pdf-generator-service:app --log-file=-
