@@ -1,1 +1,1 @@
-web: gunicorn pdf-generator-service:app --log-file=-
+web: gunicorn test2:app --log-file=-
